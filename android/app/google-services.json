@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "604234093624",
+    "project_id": "borrowbuddy-4e015",
+    "storage_bucket": "borrowbuddy-4e015.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604234093624:android:37312a75f03c986dbb82cd",
+        "android_client_info": {
+          "package_name": "com.example.borrowbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604234093624-f119jpa7fgojo3la1j86jheo6ah1r5s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.borrowbuddy",
+            "certificate_hash": "ea2e2361e130dc08caaeca89cb132ddbf5d2944a"
+          }
+        },
+        {
+          "client_id": "604234093624-mg7kobl3t89600qqoas7lqu2m8sloqau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsKu-LCwb_U70WSLFu3zJaJTo8q98H1-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604234093624-mg7kobl3t89600qqoas7lqu2m8sloqau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
